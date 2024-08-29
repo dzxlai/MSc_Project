@@ -19,5 +19,7 @@ majority when comparing results.
 - finally, as remarked with the main aim, providing insights that will be key messages and takeaways
 found via an exploration of, and backed-up by the data.
 
+[Dominic_Lai_MSc_Project_2022.pdf](https://github.com/user-attachments/files/16798534/Dominic_Lai_MSc_Project_2022.pdf)
+
 <br />
 <br />
