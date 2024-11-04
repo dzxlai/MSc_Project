@@ -1,7 +1,7 @@
 
 ![Screenshot at Aug 29 12-46-29](https://github.com/user-attachments/assets/dffd57cb-3b31-4ecb-bd08-be75200e0e61)
 
-<h1> MSc Project (Dissertation) - Delving into the Key Characteristcs of Procrastination </h1>
+<h1> MSc Project (Dissertation) - Delving into the Key Characteristics of Procrastination </h1>
 <h2> Using Exploratory Data Analysis and Machine Learning Algorithms </h2>
 
 <h2> Description </h2>
